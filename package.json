@@ -1,0 +1,11 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JagMax/js4-task2.git",
+  "author": "JagMax <gewoonmaks@gmail.com>",
+  "license": "MIT",
+  "scripts" : {
+    "start" : "node ."
+  } 
+}
